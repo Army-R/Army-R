@@ -18,7 +18,7 @@
 - Python projects & scripts
 - Web application projects
 - Test automation with Selenium & Playwright
-- Software testing projects
+- API testing projects
 
 🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/armando-ruiz97/)
 <!---
